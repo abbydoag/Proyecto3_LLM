@@ -58,6 +58,10 @@ st.html("""
         border-left: 4px solid #6B8E23;
         padding: 10px 14px;
     }
+
+    [data-testid="stAppViewContainer"] {
+    background-color: #4cc39d;
+    }
 </style>
 """)
 
